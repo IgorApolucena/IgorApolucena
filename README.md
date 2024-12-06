@@ -1,4 +1,4 @@
-## BEM VINDO AO MEU PERFIL 👋
+## Olá! Eu sou o Igor Apolucena
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IgorApolucena/IgorApolucena/output/github-contribution-grid-snake-dark.svg">
