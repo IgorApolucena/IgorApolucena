@@ -26,7 +26,7 @@
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)
 ![Git](https://img.shields.io/badge/GIT-0D1117?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-0D1117?style=for-the-badge&logo=debian&logoColor=white)
+![Linux](https://img.shields.io/badge/Debian-0D1117?style=for-the-badge&logo=debian&logoColor=white)
 
 <br>
 
@@ -34,6 +34,6 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/igoor.pl/)
 [![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rogi.apolucena@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/igor-apolucena-dev)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-apolucena-dev)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
