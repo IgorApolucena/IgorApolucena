@@ -1,16 +1,12 @@
 <img src ="githubanner.jpg"/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/igor-apolucena-santos" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/igoor.apl/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&to=rogi.contacts@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+  
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-apolucena-santos)
+  [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/igoor.apl/)
+  [![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=rogi.contacts@gmail.com)
+
+</div>
 
 <h2 align="center"><em>About me</em></h2>
 <img src="https://i.pinimg.com/originals/6c/1b/44/6c1b44e1453e9bb0084f3e4699184e30.gif" width="250" align="right" style="margin-left: 20px;" />
