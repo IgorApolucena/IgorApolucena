@@ -13,7 +13,7 @@
 <br/>
 
 <p>
-  Hello! <em><b> I'm Igor Apolucena </b></em>, a I'm a Systems Analysis and Development student. My goal is to enter the tech field to design and build software, always seeking to acquire technical knowledge.
+  Hello there! <em><b>I'm Igor Apolucena</b></em>, a Systems Development student. I'm passionate about technology, programming and continuous learning. I enjoy exploring new tools and improving my skills through practical projects. 
 </p>
 
 <br/>
@@ -51,7 +51,6 @@
 
 <div align = "center"> 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorApolucena&show_icons=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&card_width=350&hide_border=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=IgorApolucena&theme=dark&background=000000&hide_border=true&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=fffffff&currStreakLabel=ffffff&card_width=401)<br/><br/>
 
 </div>
