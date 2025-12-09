@@ -1,39 +1,64 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
+<img src ="githubanner.jpg"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=100&size=40&duration=3000&pause=900&color=F7F7F7&background=FFFFFF00&center=true&vCenter=true&width=1000&height=70&lines=Hello%2C+my+name+is+Igor;I+am+a+student+of+programming.)](https://git.io/typing-svg)
 
-#### Hello! I'm a Systems Analysis and Development student. My goal is to enter the tech field to design and build software, always seeking to acquire technical knowledge.
+<p align="center">
+  <a href="https://www.linkedin.com/in/igor-apolucena-santos" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/igoor.apl/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&to=rogi.contacts@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-##
+<h2 align="center"><em>About me</em></h2>
+<img src="https://i.pinimg.com/originals/6c/1b/44/6c1b44e1453e9bb0084f3e4699184e30.gif" width="250" align="right" style="margin-left: 20px;" />
+<br/>
 
-### 📊 My Statistics:
+<p>
+  Hello! <em><b> I'm Igor Apolucena </b></em>, a I'm a Systems Analysis and Development student. My goal is to enter the tech field to design and build software, always seeking to acquire technical knowledge.
+</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorApolucena&show_icons=true&bg_color=00000000&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorApolucena&layout=compact&bg_color=00000000&theme=dark&hide_border=true)
+<br/>
 
-<br>
+<p align="center">
+    <em><b> Technical Degree in Systems Development — ETEC Jardim Ângela </b></em> <br/>
+    <em><b> Technical Degree in Systems Development — Leila Sabino Prof </b></em><br/>
+    <em><b> Participant in the Liga Jovem Challenge — 3rd Edition </b></em><br/>
+    <em><b> Member of Basicly Softwares  </b></em><br/>
+</p>
 
-### 🧠 Knowledge:
+<br/>
+<br/>
+<h2 align="center"><em> Technologies </em></h2>
 
-![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=figma)
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)
-![Django](https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=green)
-![C#](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=c-sharp&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)
-![Git](https://img.shields.io/badge/GIT-0D1117?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Debian-0D1117?style=for-the-badge&logo=debian&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5"/>
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3"/>
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma"/>
+  <img src="https://img.shields.io/badge/-python-000000?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django"/>
+  <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp"/>
+  <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php"/>
+  <img src="https://img.shields.io/badge/-mysql-000000?style=for-the-badge&logo=mysql&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Debian-000000?style=for-the-badge&logo=debian"/>
+</p>
 
-<br>
+<br/>
+<br/>
 
-### 🌐 Social Media:
+<h2 align="center"><em> Statistics </em></h2>
 
-[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/igoor.pl/)
-[![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=rogi.apolucena@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-apolucena-dev)
+<div align = "center"> 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorApolucena&show_icons=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&card_width=350&hide_border=true)
+![](https://nirzak-streak-stats.vercel.app/?user=IgorApolucena&theme=dark&background=000000&hide_border=true&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=fffffff&currStreakLabel=ffffff&card_width=401)<br/><br/>
+
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
